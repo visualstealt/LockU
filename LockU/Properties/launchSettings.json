@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "LockU": {
+      "commandName": "Project",
+      "commandLineArgs": "-verbose"
+    }
+  }
+}
